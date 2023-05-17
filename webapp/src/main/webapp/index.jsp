@@ -56,7 +56,7 @@ section{
 }
 
 #home{
-   background-color: f70505;
+   background-color: #59405C;
 }
 
 #about{
