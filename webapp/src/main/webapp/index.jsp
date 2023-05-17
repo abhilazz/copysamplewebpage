@@ -56,7 +56,7 @@ section{
 }
 
 #home{
-   background-color: #59405C;
+   background-color: f70505;
 }
 
 #about{
@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">FlipKart Website</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">Abhilash Website</span>
             <ul id="menu">
 
                 <li><a href="#about">About Us</a></li>
@@ -100,7 +100,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>This is the Home Page</h1>
+         <h1>My full name is Abhilash Nayak</h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
