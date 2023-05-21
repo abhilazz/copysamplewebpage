@@ -86,6 +86,10 @@ h1{
     width: 90px;
     height: 50px;
   }
+  .my-image {
+	  width: 300px;
+	  height: 500px:
+  }
 </style>
 </head>
 
@@ -114,11 +118,13 @@ h1{
 		
         </header>
          <h1>My full name is Abhilash Nayak</h1>
+	 <td><img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/4440.jpg?raw=true" class="my-image" ></td>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
     <section id="pricing"><h1>This is the Pricing</h1></section>
     <section id="contact"><h1>This is the Contact Page!</h1></section>
+    
 
 </body>
 </html>
