@@ -82,20 +82,24 @@ h1{
     transform: translate(-50%, -50%);
     color: #fff;
 }
+  .image-class {
+    width: 90px;
+    height: 50px;
+  }
 </style>
 </head>
 
 <body>
-<!--       <tr>
+       <tr>
           <th>GIT LINUX</th>
           <th>KUBERNETES</th>
           <th>TERRAFORM</th>
         </tr>
         <tr>
-         <td><img src="D:\DOCUMENTS\SELF\DEVOPS\New\images\linuxgit.png" class="image-class" alt="Broom Image"></td>
-         <td><img src="D:\DOCUMENTS\SELF\DEVOPS\New\images\kubernets.png" class="image-class" alt="Broom Image"></td>
-         <td><img src="D:\DOCUMENTS\SELF\DEVOPS\New\images\terraform.jpeg" class="image-class" alt="Broom Image"></td>
-	</tr>-->
+         <td><img src="https://github.com/abhilazz/SimpleWebApp/tree/master/webapp/src/main/webapp/images\linuxgit.png" class="image-class" alt="Broom Image"></td>
+         <td><img src="https://github.com/abhilazz/SimpleWebApp/tree/master/webapp/src/main/webapp/images\kubernets.png" class="image-class" alt="Broom Image"></td>
+         <td><img src="https://github.com/abhilazz/SimpleWebApp/tree/master/webapp/src/main/webapp/images\terraform.jpeg" class="image-class" alt="Broom Image"></td>
+	</tr>
     <section id="home">
         <header>
             <span style="font-size:64px;margin-right:10px;color:orange">Abhilash Nayak</span>
