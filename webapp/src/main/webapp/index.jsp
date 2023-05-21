@@ -96,9 +96,9 @@ h1{
           <th>TERRAFORM</th>
         </tr>
         <tr>
-         <td><img src="https://github.com/abhilazz/SimpleWebApp/tree/master/webapp/src/main/webapp/images\linuxgit.png" class="image-class" alt="Broom Image"></td>
+         <td><img src="https://github.com/abhilazz/SimpleWebApp/tree/master/webapp/src/main/webapp/images\linuxgit.png" class="image-class" ></td>
          <td><img src="https://github.com/abhilazz/SimpleWebApp/blob/master/webapp/src/main/webapp/images/kubernets.png" class="image-class"</td>
-         <td><img src="https://github.com/abhilazz/SimpleWebApp/tree/master/webapp/src/main/webapp/images\terraform.jpeg" class="image-class" alt="Broom Image"></td>
+         <td><img src="https://github.com/abhilazz/SimpleWebApp/tree/master/webapp/src/main/webapp/images\terraform.jpeg" class="image-class"></td>
 	</tr>
     <section id="home">
         <header>
